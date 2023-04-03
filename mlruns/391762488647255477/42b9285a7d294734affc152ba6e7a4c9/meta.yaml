@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/391762488647255477/42b9285a7d294734affc152ba6e7a4c9/artifacts
+end_time: 1680515128609
+entry_point_name: ''
+experiment_id: '391762488647255477'
+lifecycle_stage: active
+run_id: 42b9285a7d294734affc152ba6e7a4c9
+run_name: fearless-stoat-988
+run_uuid: 42b9285a7d294734affc152ba6e7a4c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680515093387
+status: 3
+tags: []
+user_id: trj

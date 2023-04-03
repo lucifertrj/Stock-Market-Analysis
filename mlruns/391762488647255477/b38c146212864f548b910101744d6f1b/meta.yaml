@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/391762488647255477/b38c146212864f548b910101744d6f1b/artifacts
+end_time: 1680514176855
+entry_point_name: ''
+experiment_id: '391762488647255477'
+lifecycle_stage: active
+run_id: b38c146212864f548b910101744d6f1b
+run_name: trusting-shark-382
+run_uuid: b38c146212864f548b910101744d6f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680514176695
+status: 3
+tags: []
+user_id: trj

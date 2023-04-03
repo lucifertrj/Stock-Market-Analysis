@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/391762488647255477/b53184cc62514509ac3b9dc9956a3867/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '391762488647255477'
+lifecycle_stage: active
+run_id: b53184cc62514509ac3b9dc9956a3867
+run_name: intelligent-auk-704
+run_uuid: b53184cc62514509ac3b9dc9956a3867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680514667115
+status: 1
+tags: []
+user_id: trj

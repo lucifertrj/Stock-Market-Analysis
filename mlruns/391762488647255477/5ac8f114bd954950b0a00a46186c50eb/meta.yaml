@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/391762488647255477/5ac8f114bd954950b0a00a46186c50eb/artifacts
+end_time: 1680514620175
+entry_point_name: ''
+experiment_id: '391762488647255477'
+lifecycle_stage: active
+run_id: 5ac8f114bd954950b0a00a46186c50eb
+run_name: painted-trout-824
+run_uuid: 5ac8f114bd954950b0a00a46186c50eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680514620035
+status: 3
+tags: []
+user_id: trj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/391762488647255477/5a716fb3dae1464fb2656a68058c9095/artifacts
+end_time: 1680514617399
+entry_point_name: ''
+experiment_id: '391762488647255477'
+lifecycle_stage: active
+run_id: 5a716fb3dae1464fb2656a68058c9095
+run_name: caring-shark-253
+run_uuid: 5a716fb3dae1464fb2656a68058c9095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680514617229
+status: 3
+tags: []
+user_id: trj
